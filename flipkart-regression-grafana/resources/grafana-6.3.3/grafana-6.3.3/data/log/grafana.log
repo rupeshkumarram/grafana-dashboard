@@ -1,0 +1,154 @@
+t=2019-08-30T11:44:58+0530 lvl=info msg="Request Completed" logger=context userId=1 orgId=1 uname=admin method=POST path=/api/dashboards/db/ status=412 remote_addr=[::1] time_ms=37 size=96 referer="http://localhost:8989/dashboard/new?panelId=2&edit&fullscreen&tab=visualization&openVizPicker&orgId=1&gettingstarted"
+t=2019-08-30T11:46:05+0530 lvl=info msg="Request Completed" logger=context userId=1 orgId=1 uname=admin method=POST path=/api/dashboards/db/ status=412 remote_addr=[::1] time_ms=2 size=96 referer="http://localhost:8989/dashboard/new?tab=advanced&panelId=2&edit&fullscreen&orgId=1&gettingstarted"
+t=2019-08-30T11:48:34+0530 lvl=eror msg="Unable to load datasource meta data" logger=context userId=1 orgId=1 uname=admin error="Data source not found"
+t=2019-08-30T11:48:34+0530 lvl=eror msg="Request Completed" logger=context userId=1 orgId=1 uname=admin method=GET path=/api/datasources/proxy/1/query status=500 remote_addr=[::1] time_ms=33 size=49 referer="http://localhost:8989/?orgId=1"
+t=2019-08-30T11:48:43+0530 lvl=eror msg="Unable to load datasource meta data" logger=context userId=1 orgId=1 uname=admin error="Data source not found"
+t=2019-08-30T11:48:43+0530 lvl=eror msg="Request Completed" logger=context userId=1 orgId=1 uname=admin method=GET path=/api/datasources/proxy/1/query status=500 remote_addr=[::1] time_ms=1 size=49 referer="http://localhost:8989/?orgId=1"
+t=2019-08-30T11:48:56+0530 lvl=eror msg="Unable to load datasource meta data" logger=context userId=1 orgId=1 uname=admin error="Data source not found"
+t=2019-08-30T11:48:56+0530 lvl=eror msg="Request Completed" logger=context userId=1 orgId=1 uname=admin method=GET path=/api/datasources/proxy/1/query status=500 remote_addr=[::1] time_ms=1 size=49 referer="http://localhost:8989/d/KV1_daFWz/new-dashboard-copy?orgId=1"
+t=2019-08-30T11:49:48+0530 lvl=eror msg="Unable to load datasource meta data" logger=context userId=1 orgId=1 uname=admin error="Data source not found"
+t=2019-08-30T11:49:48+0530 lvl=eror msg="Request Completed" logger=context userId=1 orgId=1 uname=admin method=GET path=/api/datasources/proxy/1/query status=500 remote_addr=[::1] time_ms=1 size=49 referer="http://localhost:8989/?orgId=1"
+t=2019-08-30T11:49:54+0530 lvl=eror msg="Unable to load datasource meta data" logger=context userId=1 orgId=1 uname=admin error="Data source not found"
+t=2019-08-30T11:49:54+0530 lvl=eror msg="Request Completed" logger=context userId=1 orgId=1 uname=admin method=GET path=/api/datasources/proxy/1/query status=500 remote_addr=[::1] time_ms=1 size=49 referer="http://localhost:8989/dashboard/new?panelId=2&edit&fullscreen&orgId=1&gettingstarted"
+t=2019-08-30T11:50:03+0530 lvl=eror msg="Unable to load datasource meta data" logger=context userId=1 orgId=1 uname=admin error="Data source not found"
+t=2019-08-30T11:50:03+0530 lvl=eror msg="Request Completed" logger=context userId=1 orgId=1 uname=admin method=GET path=/api/datasources/proxy/1/query status=500 remote_addr=[::1] time_ms=2 size=49 referer="http://localhost:8989/dashboard/new?panelId=2&edit&fullscreen&orgId=1&gettingstarted"
+t=2019-08-30T11:50:07+0530 lvl=eror msg="Unable to load datasource meta data" logger=context userId=1 orgId=1 uname=admin error="Data source not found"
+t=2019-08-30T11:50:07+0530 lvl=eror msg="Request Completed" logger=context userId=1 orgId=1 uname=admin method=GET path=/api/datasources/proxy/1/query status=500 remote_addr=[::1] time_ms=4 size=49 referer="http://localhost:8989/dashboard/new?panelId=2&edit&fullscreen&orgId=1&gettingstarted"
+t=2019-08-30T12:02:18+0530 lvl=info msg="Starting Grafana" logger=server version=6.3.3 commit=84d0a71 branch=HEAD compiled=2019-08-15T14:38:12+0530
+t=2019-08-30T12:02:18+0530 lvl=info msg="Config loaded from" logger=settings file=C:\\Users\\ru20104049\\Desktop\\FirstTempLaptop\\grafana-6.3.3.windows-amd64\\grafana-6.3.3/conf/defaults.ini
+t=2019-08-30T12:02:18+0530 lvl=info msg="Config loaded from" logger=settings file=C:\\Users\\ru20104049\\Desktop\\FirstTempLaptop\\grafana-6.3.3.windows-amd64\\grafana-6.3.3\\conf\\custom.ini
+t=2019-08-30T12:02:18+0530 lvl=info msg="Path Home" logger=settings path=C:\\Users\\ru20104049\\Desktop\\FirstTempLaptop\\grafana-6.3.3.windows-amd64\\grafana-6.3.3
+t=2019-08-30T12:02:18+0530 lvl=info msg="Path Data" logger=settings path=C:\\Users\\ru20104049\\Desktop\\FirstTempLaptop\\grafana-6.3.3.windows-amd64\\grafana-6.3.3\\data
+t=2019-08-30T12:02:18+0530 lvl=info msg="Path Logs" logger=settings path=C:\\Users\\ru20104049\\Desktop\\FirstTempLaptop\\grafana-6.3.3.windows-amd64\\grafana-6.3.3\\data\\log
+t=2019-08-30T12:02:18+0530 lvl=info msg="Path Plugins" logger=settings path=C:\\Users\\ru20104049\\Desktop\\FirstTempLaptop\\grafana-6.3.3.windows-amd64\\grafana-6.3.3\\data\\plugins
+t=2019-08-30T12:02:18+0530 lvl=info msg="Path Provisioning" logger=settings path=C:\\Users\\ru20104049\\Desktop\\FirstTempLaptop\\grafana-6.3.3.windows-amd64\\grafana-6.3.3\\conf\\provisioning
+t=2019-08-30T12:02:18+0530 lvl=info msg="App mode production" logger=settings
+t=2019-08-30T12:02:18+0530 lvl=info msg="Initializing SqlStore" logger=server
+t=2019-08-30T12:02:18+0530 lvl=info msg="Connecting to DB" logger=sqlstore dbtype=sqlite3
+t=2019-08-30T12:02:18+0530 lvl=info msg="Starting DB migration" logger=migrator
+t=2019-08-30T12:02:18+0530 lvl=info msg="Initializing HTTPServer" logger=server
+t=2019-08-30T12:02:18+0530 lvl=info msg="Initializing InternalMetricsService" logger=server
+t=2019-08-30T12:02:18+0530 lvl=info msg="Initializing RemoteCache" logger=server
+t=2019-08-30T12:02:18+0530 lvl=info msg="Initializing QuotaService" logger=server
+t=2019-08-30T12:02:18+0530 lvl=info msg="Initializing PluginManager" logger=server
+t=2019-08-30T12:02:18+0530 lvl=info msg="Starting plugin search" logger=plugins
+t=2019-08-30T12:02:19+0530 lvl=info msg="Initializing RenderingService" logger=server
+t=2019-08-30T12:02:19+0530 lvl=info msg="Initializing AlertEngine" logger=server
+t=2019-08-30T12:02:19+0530 lvl=info msg="Initializing DatasourceCacheService" logger=server
+t=2019-08-30T12:02:19+0530 lvl=info msg="Initializing HooksService" logger=server
+t=2019-08-30T12:02:19+0530 lvl=info msg="Initializing LoginService" logger=server
+t=2019-08-30T12:02:19+0530 lvl=info msg="Initializing SearchService" logger=server
+t=2019-08-30T12:02:19+0530 lvl=info msg="Initializing ServerLockService" logger=server
+t=2019-08-30T12:02:19+0530 lvl=info msg="Initializing TracingService" logger=server
+t=2019-08-30T12:02:19+0530 lvl=info msg="Initializing UsageStatsService" logger=server
+t=2019-08-30T12:02:19+0530 lvl=info msg="Initializing UserAuthTokenService" logger=server
+t=2019-08-30T12:02:19+0530 lvl=info msg="Initializing CleanUpService" logger=server
+t=2019-08-30T12:02:19+0530 lvl=info msg="Initializing NotificationService" logger=server
+t=2019-08-30T12:02:19+0530 lvl=info msg="Initializing provisioningServiceImpl" logger=server
+t=2019-08-30T12:02:19+0530 lvl=info msg="Initializing Stream Manager"
+t=2019-08-30T12:02:19+0530 lvl=info msg="HTTP Server Listen" logger=http.server address=0.0.0.0:8989 protocol=http subUrl= socket=
+t=2019-08-30T12:16:52+0530 lvl=info msg="Request Completed" logger=context userId=1 orgId=1 uname=admin method=POST path=/api/dashboards/db/ status=412 remote_addr=[::1] time_ms=3 size=96 referer="http://localhost:8989/dashboard/new?panelId=2&edit&fullscreen&orgId=1&gettingstarted"
+t=2019-08-30T12:59:29+0530 lvl=info msg="Request Completed" logger=context userId=1 orgId=1 uname=admin method=POST path=/api/dashboards/db/ status=412 remote_addr=[::1] time_ms=3 size=96 referer="http://localhost:8989/dashboard/new?editview=annotations&tab=queries&panelId=2&edit=true&fullscreen=true&orgId=1&gettingstarted=true&from=1567117716397&to=1567160916397"
+t=2019-08-30T13:44:26+0530 lvl=info msg="Starting Grafana" logger=server version=6.3.3 commit=84d0a71 branch=HEAD compiled=2019-08-15T14:38:12+0530
+t=2019-08-30T13:44:26+0530 lvl=info msg="Config loaded from" logger=settings file=C:\\Users\\ru20104049\\Desktop\\FirstTempLaptop\\grafana-6.3.3.windows-amd64\\grafana-6.3.3/conf/defaults.ini
+t=2019-08-30T13:44:26+0530 lvl=info msg="Config loaded from" logger=settings file=C:\\Users\\ru20104049\\Desktop\\FirstTempLaptop\\grafana-6.3.3.windows-amd64\\grafana-6.3.3\\conf\\custom.ini
+t=2019-08-30T13:44:26+0530 lvl=info msg="Path Home" logger=settings path=C:\\Users\\ru20104049\\Desktop\\FirstTempLaptop\\grafana-6.3.3.windows-amd64\\grafana-6.3.3
+t=2019-08-30T13:44:26+0530 lvl=info msg="Path Data" logger=settings path=C:\\Users\\ru20104049\\Desktop\\FirstTempLaptop\\grafana-6.3.3.windows-amd64\\grafana-6.3.3\\data
+t=2019-08-30T13:44:26+0530 lvl=info msg="Path Logs" logger=settings path=C:\\Users\\ru20104049\\Desktop\\FirstTempLaptop\\grafana-6.3.3.windows-amd64\\grafana-6.3.3\\data\\log
+t=2019-08-30T13:44:26+0530 lvl=info msg="Path Plugins" logger=settings path=C:\\Users\\ru20104049\\Desktop\\FirstTempLaptop\\grafana-6.3.3.windows-amd64\\grafana-6.3.3\\data\\plugins
+t=2019-08-30T13:44:26+0530 lvl=info msg="Path Provisioning" logger=settings path=C:\\Users\\ru20104049\\Desktop\\FirstTempLaptop\\grafana-6.3.3.windows-amd64\\grafana-6.3.3\\conf\\provisioning
+t=2019-08-30T13:44:26+0530 lvl=info msg="App mode production" logger=settings
+t=2019-08-30T13:44:26+0530 lvl=info msg="Initializing SqlStore" logger=server
+t=2019-08-30T13:44:26+0530 lvl=info msg="Connecting to DB" logger=sqlstore dbtype=sqlite3
+t=2019-08-30T13:44:26+0530 lvl=info msg="Starting DB migration" logger=migrator
+t=2019-08-30T13:44:26+0530 lvl=info msg="Initializing HTTPServer" logger=server
+t=2019-08-30T13:44:26+0530 lvl=info msg="Initializing InternalMetricsService" logger=server
+t=2019-08-30T13:44:26+0530 lvl=info msg="Initializing RemoteCache" logger=server
+t=2019-08-30T13:44:26+0530 lvl=info msg="Initializing QuotaService" logger=server
+t=2019-08-30T13:44:26+0530 lvl=info msg="Initializing PluginManager" logger=server
+t=2019-08-30T13:44:26+0530 lvl=info msg="Starting plugin search" logger=plugins
+t=2019-08-30T13:44:27+0530 lvl=info msg="Initializing RenderingService" logger=server
+t=2019-08-30T13:44:27+0530 lvl=info msg="Initializing AlertEngine" logger=server
+t=2019-08-30T13:44:27+0530 lvl=info msg="Initializing DatasourceCacheService" logger=server
+t=2019-08-30T13:44:27+0530 lvl=info msg="Initializing HooksService" logger=server
+t=2019-08-30T13:44:27+0530 lvl=info msg="Initializing LoginService" logger=server
+t=2019-08-30T13:44:27+0530 lvl=info msg="Initializing SearchService" logger=server
+t=2019-08-30T13:44:27+0530 lvl=info msg="Initializing ServerLockService" logger=server
+t=2019-08-30T13:44:27+0530 lvl=info msg="Initializing TracingService" logger=server
+t=2019-08-30T13:44:27+0530 lvl=info msg="Initializing UsageStatsService" logger=server
+t=2019-08-30T13:44:27+0530 lvl=info msg="Initializing UserAuthTokenService" logger=server
+t=2019-08-30T13:44:27+0530 lvl=info msg="Initializing CleanUpService" logger=server
+t=2019-08-30T13:44:27+0530 lvl=info msg="Initializing NotificationService" logger=server
+t=2019-08-30T13:44:27+0530 lvl=info msg="Initializing provisioningServiceImpl" logger=server
+t=2019-08-30T13:44:27+0530 lvl=info msg="Initializing Stream Manager"
+t=2019-08-30T13:44:27+0530 lvl=info msg="HTTP Server Listen" logger=http.server address=0.0.0.0:8989 protocol=http subUrl= socket=
+t=2019-08-30T13:57:10+0530 lvl=info msg="Starting Grafana" logger=server version=6.3.3 commit=84d0a71 branch=HEAD compiled=2019-08-15T14:38:12+0530
+t=2019-08-30T13:57:10+0530 lvl=info msg="Config loaded from" logger=settings file=C:\\Users\\ru20104049\\Desktop\\FirstTempLaptop\\grafana-6.3.3.windows-amd64\\grafana-6.3.3/conf/defaults.ini
+t=2019-08-30T13:57:10+0530 lvl=info msg="Config loaded from" logger=settings file=C:\\Users\\ru20104049\\Desktop\\FirstTempLaptop\\grafana-6.3.3.windows-amd64\\grafana-6.3.3\\conf\\custom.ini
+t=2019-08-30T13:57:10+0530 lvl=info msg="Path Home" logger=settings path=C:\\Users\\ru20104049\\Desktop\\FirstTempLaptop\\grafana-6.3.3.windows-amd64\\grafana-6.3.3
+t=2019-08-30T13:57:10+0530 lvl=info msg="Path Data" logger=settings path=C:\\Users\\ru20104049\\Desktop\\FirstTempLaptop\\grafana-6.3.3.windows-amd64\\grafana-6.3.3\\data
+t=2019-08-30T13:57:10+0530 lvl=info msg="Path Logs" logger=settings path=C:\\Users\\ru20104049\\Desktop\\FirstTempLaptop\\grafana-6.3.3.windows-amd64\\grafana-6.3.3\\data\\log
+t=2019-08-30T13:57:10+0530 lvl=info msg="Path Plugins" logger=settings path=C:\\Users\\ru20104049\\Desktop\\FirstTempLaptop\\grafana-6.3.3.windows-amd64\\grafana-6.3.3\\data\\plugins
+t=2019-08-30T13:57:10+0530 lvl=info msg="Path Provisioning" logger=settings path=C:\\Users\\ru20104049\\Desktop\\FirstTempLaptop\\grafana-6.3.3.windows-amd64\\grafana-6.3.3\\conf\\provisioning
+t=2019-08-30T13:57:10+0530 lvl=info msg="App mode production" logger=settings
+t=2019-08-30T13:57:10+0530 lvl=info msg="Initializing SqlStore" logger=server
+t=2019-08-30T13:57:10+0530 lvl=info msg="Connecting to DB" logger=sqlstore dbtype=sqlite3
+t=2019-08-30T13:57:10+0530 lvl=info msg="Starting DB migration" logger=migrator
+t=2019-08-30T13:57:10+0530 lvl=info msg="Initializing HTTPServer" logger=server
+t=2019-08-30T13:57:10+0530 lvl=info msg="Initializing InternalMetricsService" logger=server
+t=2019-08-30T13:57:10+0530 lvl=info msg="Initializing RemoteCache" logger=server
+t=2019-08-30T13:57:10+0530 lvl=info msg="Initializing QuotaService" logger=server
+t=2019-08-30T13:57:10+0530 lvl=info msg="Initializing PluginManager" logger=server
+t=2019-08-30T13:57:10+0530 lvl=info msg="Starting plugin search" logger=plugins
+t=2019-08-30T13:57:11+0530 lvl=info msg="Initializing RenderingService" logger=server
+t=2019-08-30T13:57:11+0530 lvl=info msg="Initializing AlertEngine" logger=server
+t=2019-08-30T13:57:11+0530 lvl=info msg="Initializing DatasourceCacheService" logger=server
+t=2019-08-30T13:57:11+0530 lvl=info msg="Initializing HooksService" logger=server
+t=2019-08-30T13:57:11+0530 lvl=info msg="Initializing LoginService" logger=server
+t=2019-08-30T13:57:11+0530 lvl=info msg="Initializing SearchService" logger=server
+t=2019-08-30T13:57:11+0530 lvl=info msg="Initializing ServerLockService" logger=server
+t=2019-08-30T13:57:11+0530 lvl=info msg="Initializing TracingService" logger=server
+t=2019-08-30T13:57:11+0530 lvl=info msg="Initializing UsageStatsService" logger=server
+t=2019-08-30T13:57:11+0530 lvl=info msg="Initializing UserAuthTokenService" logger=server
+t=2019-08-30T13:57:11+0530 lvl=info msg="Initializing CleanUpService" logger=server
+t=2019-08-30T13:57:11+0530 lvl=info msg="Initializing NotificationService" logger=server
+t=2019-08-30T13:57:11+0530 lvl=info msg="Initializing provisioningServiceImpl" logger=server
+t=2019-08-30T13:57:11+0530 lvl=info msg="Initializing Stream Manager"
+t=2019-08-30T13:57:11+0530 lvl=info msg="HTTP Server Listen" logger=http.server address=0.0.0.0:8989 protocol=http subUrl= socket=
+t=2019-09-02T16:30:38+0530 lvl=info msg="Starting Grafana" logger=server version=6.3.3 commit=84d0a71 branch=HEAD compiled=2019-08-15T14:38:12+0530
+t=2019-09-02T16:30:38+0530 lvl=info msg="Config loaded from" logger=settings file=C:\\Users\\ru20104049\\eclipse-workspace\\flipkart-regression-grafana\\resources\\grafana-6.3.3\\grafana-6.3.3/conf/defaults.ini
+t=2019-09-02T16:30:38+0530 lvl=info msg="Config loaded from" logger=settings file=C:\\Users\\ru20104049\\eclipse-workspace\\flipkart-regression-grafana\\resources\\grafana-6.3.3\\grafana-6.3.3\\conf\\custom.ini
+t=2019-09-02T16:30:38+0530 lvl=info msg="Path Home" logger=settings path=C:\\Users\\ru20104049\\eclipse-workspace\\flipkart-regression-grafana\\resources\\grafana-6.3.3\\grafana-6.3.3
+t=2019-09-02T16:30:38+0530 lvl=info msg="Path Data" logger=settings path=C:\\Users\\ru20104049\\eclipse-workspace\\flipkart-regression-grafana\\resources\\grafana-6.3.3\\grafana-6.3.3\\data
+t=2019-09-02T16:30:38+0530 lvl=info msg="Path Logs" logger=settings path=C:\\Users\\ru20104049\\eclipse-workspace\\flipkart-regression-grafana\\resources\\grafana-6.3.3\\grafana-6.3.3\\data\\log
+t=2019-09-02T16:30:38+0530 lvl=info msg="Path Plugins" logger=settings path=C:\\Users\\ru20104049\\eclipse-workspace\\flipkart-regression-grafana\\resources\\grafana-6.3.3\\grafana-6.3.3\\data\\plugins
+t=2019-09-02T16:30:38+0530 lvl=info msg="Path Provisioning" logger=settings path=C:\\Users\\ru20104049\\eclipse-workspace\\flipkart-regression-grafana\\resources\\grafana-6.3.3\\grafana-6.3.3\\conf\\provisioning
+t=2019-09-02T16:30:38+0530 lvl=info msg="App mode production" logger=settings
+t=2019-09-02T16:30:38+0530 lvl=info msg="Initializing SqlStore" logger=server
+t=2019-09-02T16:30:38+0530 lvl=info msg="Connecting to DB" logger=sqlstore dbtype=sqlite3
+t=2019-09-02T16:30:38+0530 lvl=info msg="Starting DB migration" logger=migrator
+t=2019-09-02T16:30:38+0530 lvl=info msg="Initializing HTTPServer" logger=server
+t=2019-09-02T16:30:38+0530 lvl=info msg="Initializing InternalMetricsService" logger=server
+t=2019-09-02T16:30:38+0530 lvl=info msg="Initializing RemoteCache" logger=server
+t=2019-09-02T16:30:38+0530 lvl=info msg="Initializing QuotaService" logger=server
+t=2019-09-02T16:30:38+0530 lvl=info msg="Initializing PluginManager" logger=server
+t=2019-09-02T16:30:38+0530 lvl=info msg="Starting plugin search" logger=plugins
+t=2019-09-02T16:30:39+0530 lvl=info msg="Initializing RenderingService" logger=server
+t=2019-09-02T16:30:39+0530 lvl=info msg="Initializing AlertEngine" logger=server
+t=2019-09-02T16:30:39+0530 lvl=info msg="Initializing DatasourceCacheService" logger=server
+t=2019-09-02T16:30:39+0530 lvl=info msg="Initializing HooksService" logger=server
+t=2019-09-02T16:30:39+0530 lvl=info msg="Initializing LoginService" logger=server
+t=2019-09-02T16:30:39+0530 lvl=info msg="Initializing SearchService" logger=server
+t=2019-09-02T16:30:39+0530 lvl=info msg="Initializing ServerLockService" logger=server
+t=2019-09-02T16:30:39+0530 lvl=info msg="Initializing TracingService" logger=server
+t=2019-09-02T16:30:39+0530 lvl=info msg="Initializing UsageStatsService" logger=server
+t=2019-09-02T16:30:39+0530 lvl=info msg="Initializing UserAuthTokenService" logger=server
+t=2019-09-02T16:30:39+0530 lvl=info msg="Initializing CleanUpService" logger=server
+t=2019-09-02T16:30:39+0530 lvl=info msg="Initializing NotificationService" logger=server
+t=2019-09-02T16:30:39+0530 lvl=info msg="Initializing provisioningServiceImpl" logger=server
+t=2019-09-02T16:30:39+0530 lvl=info msg="Initializing Stream Manager"
+t=2019-09-02T16:30:39+0530 lvl=info msg="HTTP Server Listen" logger=http.server address=0.0.0.0:8989 protocol=http subUrl= socket=
+t=2019-09-02T16:52:40+0530 lvl=info msg="Request Completed" logger=context userId=1 orgId=1 uname=admin method=POST path=/api/dashboards/db/ status=412 remote_addr=[::1] time_ms=3 size=96 referer="http://localhost:8989/dashboard/new?editview=settings&panelId=2&edit&fullscreen&orgId=1"
+t=2019-09-02T16:55:47+0530 lvl=eror msg="Dashboard not found" logger=context userId=1 orgId=1 uname=admin error="Dashboard not found"
+t=2019-09-02T16:55:47+0530 lvl=info msg="Request Completed" logger=context userId=1 orgId=1 uname=admin method=DELETE path=/api/dashboards/uid/null status=404 remote_addr=[::1] time_ms=2 size=33 referer="http://localhost:8989/dashboard/new?editview=settings&panelId=2&edit=true&fullscreen=true&orgId=1"
+t=2019-09-02T16:56:00+0530 lvl=info msg="Request Completed" logger=context userId=1 orgId=1 uname=admin method=GET path=/d status=404 remote_addr=[::1] time_ms=9 size=26847 referer=
